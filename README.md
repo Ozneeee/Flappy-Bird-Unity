@@ -9,6 +9,8 @@ You can edit what do you want i just want to help unity community
 
 The projet is made for apk version, you can find it in \Flappy Bird\APK EXPORT
 
+!!! Made in Unity Version 2019.4.2 or 2020. !!! it do not work with higher version such as 2019.4.2 or 2020. !!!
+
 
 # Preview : https://streamable.com/xfwdht
 
